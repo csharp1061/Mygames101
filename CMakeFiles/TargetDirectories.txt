@@ -1,0 +1,3 @@
+/home/hzycpp/Desktop/LearningCpp/games101/assignment1/CMakeFiles/Rasterizer.dir
+/home/hzycpp/Desktop/LearningCpp/games101/assignment1/CMakeFiles/edit_cache.dir
+/home/hzycpp/Desktop/LearningCpp/games101/assignment1/CMakeFiles/rebuild_cache.dir
